@@ -1,6 +1,11 @@
 # elifgunay
+# Hi there, I'm Elif 👋, MSc. AI Eng. Student,  BSc. Mathematician !!
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
-[![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
+I graduated student in Mathematics and am currently a master's student in Artificial Intelligence Engineering  in Germany. My passion for AI and machine learning started 2 years ago. Since then I have never stopped learning. I am currently focusing on AI and how to leverage deep learning and machine learning to create business value.
+
+🔗 &nbsp;**Connect with me**
+- 📫 &nbsp;How to reach me: [@eliffgunay@yandex.com]
+- 🔭 &nbsp;I’m currently studying on MSc. AI Eng.
+- 🌱 &nbsp;I’m currently learning German
+- 👨‍💻 &nbsp; Working on University
+- 🥅 2022 Goals: Learn more about AI/ML
