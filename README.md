@@ -6,5 +6,4 @@ I graduated student in Mathematics and am currently a master's student in Artifi
 🔗 &nbsp;**Connect with me**
 - 📫 &nbsp;How to reach me: [@eliffgunay@yandex.com]
 - 🌱 &nbsp;I’m currently learning German
-- 👨‍💻 &nbsp; Working on University
 - 🥅 2025 Goals: Learn more about Java
