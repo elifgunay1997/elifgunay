@@ -5,7 +5,6 @@ I graduated student in Mathematics and am currently a master's student in Artifi
 
 🔗 &nbsp;**Connect with me**
 - 📫 &nbsp;How to reach me: [@eliffgunay@yandex.com]
-- 🔭 &nbsp;I’m currently studying on MSc. AI Eng.
 - 🌱 &nbsp;I’m currently learning German
 - 👨‍💻 &nbsp; Working on University
-- 🥅 2022 Goals: Learn more about AI/ML
+- 🥅 2025 Goals: Learn more about Java
